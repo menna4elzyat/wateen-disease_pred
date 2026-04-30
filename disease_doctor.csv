@@ -1,0 +1,725 @@
+disease,doctor_specialty
+Atrial fibrillation,Cardiologist
+Abdominal aortic aneurysm,General Physician
+Separated shoulder,General Physician
+Acanthosis nigricans,General Physician
+Achilles tendinitis,General Physician
+Gastroesophageal reflux disease (GERD),Gastroenterologist
+ACL injury,General Physician
+HIV/AIDS,General Physician
+Actinic keratosis,General Physician
+Acute coronary syndrome,General Physician
+Sweet's syndrome,General Physician
+Acute flaccid myelitis (AFM),General Physician
+Acute myelogenous leukemia,General Physician
+Guillain-Barre syndrome,General Physician
+Acute kidney failure,Nephrologist
+Acute lymphocytic leukemia,General Physician
+Acute sinusitis,General Physician
+Alcohol use disorder,General Physician
+Drug addiction (substance use disorder),General Physician
+Nicotine dependence,General Physician
+Adenomyosis,General Physician
+Attention-deficit/hyperactivity disorder (ADHD) in children,General Physician
+Adult attention-deficit/hyperactivity disorder (ADHD),General Physician
+Childhood schizophrenia,General Physician
+Adult Still's disease,General Physician
+Age spots (liver spots),General Physician
+Dry macular degeneration,General Physician
+Wet macular degeneration,General Physician
+Myelofibrosis,General Physician
+Airplane ear,General Physician
+Alcohol intolerance,General Physician
+Alcoholic hepatitis,General Physician
+Hay fever,General Physician
+Allergies,General Physician
+Dust mite allergy,General Physician
+Egg allergy,General Physician
+Latex allergy,General Physician
+Mold allergy,General Physician
+Nickel allergy,General Physician
+Peanut allergy,General Physician
+Penicillin allergy,General Physician
+Pet allergy,General Physician
+Shellfish allergy,General Physician
+Soy allergy,General Physician
+Wheat allergy,General Physician
+Hair loss,General Physician
+Alpha-gal syndrome,General Physician
+Alzheimer's disease,General Physician
+Lazy eye (amblyopia),General Physician
+Amenorrhea,General Physician
+Chagas disease,General Physician
+Amnesia,General Physician
+Transient global amnesia,General Physician
+Ampullary cancer,Oncologist
+Amyloidosis,General Physician
+Anal cancer,Oncologist
+Anal fissure,General Physician
+Anaphylaxis,General Physician
+Anemia,General Physician
+Thalassemia,General Physician
+Iron deficiency anemia,General Physician
+Sickle cell anemia,General Physician
+Brain aneurysm,Neurologist
+Thoracic aortic aneurysm,General Physician
+Angelman syndrome,General Physician
+Vasculitis,General Physician
+Angina,General Physician
+Hives and angioedema,General Physician
+Angiosarcoma,General Physician
+Broken ankle,General Physician
+Tongue-tie (ankyloglossia),General Physician
+Ankylosing spondylitis,General Physician
+Anorexia nervosa,General Physician
+Anterior prolapse (cystocele),General Physician
+Anthrax,General Physician
+Pseudomembranous colitis,General Physician
+Antiphospholipid syndrome,General Physician
+Antisocial personality disorder,General Physician
+Anxiety disorders,General Physician
+Coarctation of the aorta,General Physician
+Aortic dissection,General Physician
+Aortic valve disease,General Physician
+Aortic valve regurgitation,General Physician
+Aortic valve stenosis,General Physician
+Canker sore,General Physician
+Broken heart syndrome,Cardiologist
+Chiari malformation,General Physician
+Heart arrhythmia,Cardiologist
+Arteriosclerosis / atherosclerosis,General Physician
+Arteriovenous fistula,General Physician
+Giant cell arteritis,General Physician
+Takayasu's arteritis,General Physician
+Thumb arthritis,Orthopedic
+Osteoarthritis,Orthopedic
+Gout,General Physician
+Septic arthritis,Orthopedic
+Juvenile idiopathic arthritis,Orthopedic
+Psoriatic arthritis,Orthopedic
+Reactive arthritis,Orthopedic
+Rheumatoid arthritis,Orthopedic
+Asbestosis,General Physician
+Ascariasis,General Physician
+Atrial septal defect (ASD),Cardiologist
+Avascular necrosis,General Physician
+Aspergillosis,General Physician
+Asthma,General Physician
+Asthma attack,General Physician
+Childhood asthma,General Physician
+Exercise-induced asthma,General Physician
+Occupational asthma,General Physician
+Glioma,General Physician
+Supraventricular tachycardia,General Physician
+Atelectasis,General Physician
+Athlete's foot,General Physician
+Atopic dermatitis (eczema),Dermatologist
+Vaginal atrophy,General Physician
+Reactive attachment disorder,General Physician
+Atypical depression,General Physician
+Autism spectrum disorder,General Physician
+Autoimmune hepatitis,General Physician
+Autoimmune pancreatitis,General Physician
+Autonomic neuropathy,Neurologist
+Bird flu (avian influenza),General Physician
+Back pain,General Physician
+Bacterial vaginosis,General Physician
+Folliculitis,General Physician
+Mitral valve prolapse,General Physician
+Barrett's esophagus,General Physician
+Basal cell carcinoma,Oncologist
+Body dysmorphic disorder,General Physician
+Bedbugs,General Physician
+Bedsores (pressure ulcers),General Physician
+Bed-wetting,General Physician
+Bee sting,General Physician
+Behcet's disease,General Physician
+Bell's palsy,General Physician
+Benign prostatic hyperplasia (BPH),General Physician
+IgA nephropathy (Berger's disease),General Physician
+Congenital heart disease in adults,Cardiologist
+Cholangiocarcinoma (bile duct cancer),Oncologist
+Binge-eating disorder,General Physician
+Bipolar disorder,General Physician
+Bladder cancer,Oncologist
+Urinary incontinence,General Physician
+Cystitis,General Physician
+Interstitial cystitis,General Physician
+Blastocystis hominis,General Physician
+Blocked tear duct,General Physician
+Blood in urine (hematuria),General Physician
+Burning mouth syndrome,General Physician
+Boils and carbuncles,General Physician
+Bone cancer,Oncologist
+Osteomyelitis,General Physician
+Bone metastasis,Orthopedic
+Borderline personality disorder,General Physician
+Fecal incontinence,General Physician
+Intestinal obstruction,General Physician
+Brachial plexus injury,General Physician
+Sick sinus syndrome,General Physician
+Brain AVM (arteriovenous malformation),Neurologist
+Brain metastases,Neurologist
+Brain tumor,Oncologist
+Breast cancer,Oncologist
+Inflammatory breast cancer,Oncologist
+Male breast cancer,Oncologist
+Mastitis,General Physician
+Breast pain,General Physician
+Subconjunctival hemorrhage (broken blood vessel in eye),General Physician
+Broken collarbone,Orthopedic
+Broken foot,General Physician
+Broken leg,General Physician
+Broken nose,General Physician
+Broken ribs,General Physician
+Bronchiolitis,General Physician
+Brucellosis,General Physician
+Brugada syndrome,General Physician
+Bulimia nervosa,General Physician
+Bundle branch block,General Physician
+Bunions,General Physician
+C. difficile infection,Infectious Disease
+Corns and calluses,General Physician
+Cancer,Oncologist
+Carcinoid tumors,Oncologist
+Cervical cancer,Oncologist
+Chronic lymphocytic leukemia,General Physician
+Chronic myelogenous leukemia,General Physician
+Colon cancer,Oncologist
+Endometrial cancer,Oncologist
+Esophageal cancer,Oncologist
+Eye melanoma,General Physician
+Gallbladder cancer,Oncologist
+Stomach cancer,Oncologist
+Hairy cell leukemia,General Physician
+Hodgkin's lymphoma (Hodgkin's disease),General Physician
+Hurthle cell cancer,Oncologist
+Kidney cancer,Nephrologist
+Leukemia,General Physician
+Mouth cancer,Oncologist
+Liver cancer,Oncologist
+Lung cancer,Oncologist
+Merkel cell carcinoma,Oncologist
+Mesothelioma,General Physician
+Multiple myeloma,General Physician
+Nasopharyngeal carcinoma,Oncologist
+Neuroblastoma,Neurologist
+Non-Hodgkin's lymphoma,General Physician
+Ovarian cancer,Oncologist
+Pancreatic cancer,Oncologist
+Prostate cancer,Oncologist
+Rectal cancer,Oncologist
+Skin cancer,Dermatologist
+Soft tissue sarcoma,General Physician
+Squamous cell carcinoma of the skin,Dermatologist
+Testicular cancer,Oncologist
+Throat cancer,Oncologist
+Thyroid cancer,Oncologist
+Vaginal cancer,Oncologist
+Vulvar cancer,Oncologist
+Wilms' tumor,Oncologist
+Yeast infection (vaginal),Infectious Disease
+Carbon monoxide poisoning,General Physician
+Sudden cardiac arrest,General Physician
+Myocardial ischemia,General Physician
+Cardiogenic shock,Cardiologist
+Enlarged heart,Cardiologist
+Cardiomyopathy,Cardiologist
+Dilated cardiomyopathy,Cardiologist
+Hypertrophic cardiomyopathy,Cardiologist
+Heart disease,Cardiologist
+Carotid artery disease,General Physician
+Carpal tunnel syndrome,General Physician
+Cataracts,General Physician
+Celiac disease,General Physician
+Cellulitis,General Physician
+Central sleep apnea,General Physician
+Cerebral palsy,General Physician
+Stroke,General Physician
+Cervical spondylosis,General Physician
+Cervicitis,General Physician
+Chemo brain,Neurologist
+Chickenpox,General Physician
+Chilblains,General Physician
+Childhood obesity,General Physician
+Chlamydia trachomatis,General Physician
+Primary sclerosing cholangitis,General Physician
+Cholecystitis,General Physician
+Cholera,General Physician
+Cholestasis of pregnancy,General Physician
+High cholesterol,General Physician
+Spinal cord tumor,Oncologist
+Chronic cough,General Physician
+Chronic daily headaches,General Physician
+Chronic exertional compartment syndrome,General Physician
+Chronic fatigue syndrome,General Physician
+Chronic kidney disease,Nephrologist
+Hashimoto's disease,General Physician
+COPD,General Physician
+Chronic sinusitis,General Physician
+Cirrhosis,General Physician
+Claudication,General Physician
+Cleft lip and cleft palate,General Physician
+Depression (major depressive disorder),General Physician
+Clubfoot,General Physician
+Cluster headache,General Physician
+Valley fever,General Physician
+Cold urticaria,General Physician
+Hypothermia,General Physician
+Cold sore,General Physician
+Common cold,General Physician
+Colic,General Physician
+Ischemic colitis,General Physician
+Microscopic colitis,General Physician
+Ulcerative colitis,General Physician
+Pneumothorax,General Physician
+Colon polyps,General Physician
+Common cold in babies,General Physician
+Common warts,General Physician
+Complicated grief,General Physician
+Hoarding disorder,General Physician
+Compulsive sexual behavior,General Physician
+Concussion,General Physician
+Genital warts,General Physician
+Congenital adrenal hyperplasia,Nephrologist
+Congenital heart defects in children,Cardiologist
+Congenital myopathies,General Physician
+Heart failure,Cardiologist
+Constipation,General Physician
+Constipation in children,General Physician
+Contact dermatitis,Dermatologist
+Coronary artery disease,General Physician
+Coronavirus disease 2019 (COVID-19),Infectious Disease
+Cough headaches,General Physician
+Multisystem inflammatory syndrome in children (MIS-C) and COVID-19,General Physician
+Pubic lice (crabs),General Physician
+Menstrual cramps,General Physician
+Crohn's disease,General Physician
+Croup,General Physician
+Undescended testicle,General Physician
+Cryptosporidium infection,Infectious Disease
+Peyronie's disease,General Physician
+Scoliosis,General Physician
+Self-injury/cutting,General Physician
+Cyclic vomiting syndrome,General Physician
+Cyclospora infection,Infectious Disease
+Cyclothymia (cyclothymic disorder),General Physician
+Kidney cysts,Nephrologist
+Spermatocele,General Physician
+Cystic fibrosis,General Physician
+Epidermoid cysts,General Physician
+Cytomegalovirus (CMV) infection,Infectious Disease
+Dandruff,General Physician
+Narcolepsy,General Physician
+Ductal carcinoma in situ (DCIS),Oncologist
+De Quervain's tenosynovitis,General Physician
+Dry eyes,General Physician
+Tularemia,General Physician
+Delayed ejaculation,General Physician
+Gastroparesis,Gastroenterologist
+Delirium,General Physician
+Dementia,General Physician
+Dengue fever,General Physician
+Depersonalization-derealization disorder,General Physician
+Postpartum depression,General Physician
+Teen depression,General Physician
+Dermatitis,Dermatologist
+Neurodermatitis,Dermatologist
+Seborrheic dermatitis,Dermatologist
+Dermatographia,Dermatologist
+Desmoid tumors,Oncologist
+Retinal detachment,General Physician
+Deviated septum,General Physician
+Diabetes,General Physician
+Diabetes insipidus,General Physician
+Gestational diabetes,General Physician
+Type 1 diabetes,General Physician
+Type 1 diabetes in children,General Physician
+Type 2 diabetes,General Physician
+Type 2 diabetes in children,General Physician
+Diabetic coma,General Physician
+Diabetic hyperosmolar syndrome,General Physician
+Diabetic hypoglycemia,General Physician
+Diabetic ketoacidosis,General Physician
+Diabetic nephropathy,General Physician
+Diabetic neuropathy,Neurologist
+Dysphagia,General Physician
+Diffuse idiopathic skeletal hyperostosis (DISH),General Physician
+Diphtheria,General Physician
+Dislocated elbow,General Physician
+Dislocated shoulder,General Physician
+Diverticulitis,General Physician
+Dizziness,General Physician
+Down syndrome,General Physician
+Foot drop,General Physician
+Drug allergy,General Physician
+Dry skin,Dermatologist
+Dumping syndrome,General Physician
+Dyshidrosis,General Physician
+Persistent depressive disorder (dysthymia),General Physician
+E. coli,General Physician
+Ear infection (middle ear),Infectious Disease
+Swimmer's ear,General Physician
+Precocious puberty,General Physician
+Eating disorders,General Physician
+Ebstein anomaly,General Physician
+Premature ventricular contractions (PVCs),General Physician
+Ectopic pregnancy,General Physician
+Ectropion,General Physician
+Erectile dysfunction,General Physician
+Edema,General Physician
+Pulmonary edema,General Physician
+Ehrlichiosis and anaplasmosis,General Physician
+Eisenmenger syndrome,General Physician
+Elevated blood pressure,General Physician
+Pulmonary embolism,General Physician
+Encephalitis,General Physician
+Encopresis,General Physician
+End-stage renal disease,Nephrologist
+Endocarditis,General Physician
+Uterine polyps,General Physician
+Endometriosis,General Physician
+Enlarged breasts in men (gynecomastia),General Physician
+Enlarged liver,General Physician
+Enlarged spleen (splenomegaly),General Physician
+Entropion,General Physician
+Eosinophilic esophagitis,General Physician
+Epidermolysis bullosa,General Physician
+Epididymitis,General Physician
+Epiglottitis,General Physician
+Epilepsy,Neurologist
+Stevens-Johnson syndrome,General Physician
+Esophageal varices,General Physician
+Esophagitis,General Physician
+Ewing sarcoma,General Physician
+Hirsutism,General Physician
+Menorrhagia (heavy menstrual bleeding),General Physician
+Exercise headaches,General Physician
+Eye floaters,General Physician
+Factitious disorder,General Physician
+Factor V Leiden,General Physician
+Flatfeet,General Physician
+Tetralogy of Fallot,General Physician
+Familial Mediterranean fever,General Physician
+Febrile seizure,General Physician
+Female infertility,General Physician
+Female sexual dysfunction,General Physician
+Fetal alcohol syndrome,General Physician
+Uterine fibroids,General Physician
+Fibromuscular dysplasia,General Physician
+Floor of the mouth cancer,Oncologist
+Influenza (flu),General Physician
+H1N1 flu (swine flu),General Physician
+Stress fractures,Orthopedic
+Frostbite,General Physician
+Fuchs' dystrophy,General Physician
+Functional dyspepsia,General Physician
+Gallstones,General Physician
+Gangrene,General Physician
+Gastritis,General Physician
+Viral gastroenteritis (stomach flu),Gastroenterologist
+Gaucher disease,General Physician
+Genital herpes,General Physician
+Giardia infection (giardiasis),Infectious Disease
+Gilbert's syndrome,General Physician
+Glaucoma,General Physician
+Krabbe disease,General Physician
+Golfer's elbow,General Physician
+Grand mal seizure,General Physician
+Granulomatosis with polyangiitis,General Physician
+Graves' disease,General Physician
+Helicobacter pylori (H. pylori) infection,Infectious Disease
+Hamstring injury,General Physician
+Wrist pain,General Physician
+Hand-foot-and-mouth disease,General Physician
+Hantavirus pulmonary syndrome,Infectious Disease
+Hepatitis A,General Physician
+Hepatitis B,General Physician
+Head lice,General Physician
+Migraine,General Physician
+Sex headaches,General Physician
+Sinus headaches,General Physician
+Spinal headaches,General Physician
+Headaches in children,General Physician
+Illness anxiety disorder,General Physician
+Hearing loss,General Physician
+Heart attack,Cardiologist
+Heart murmurs,Cardiologist
+Heart palpitations,Cardiologist
+Heart valve disease,Cardiologist
+Heartburn,Cardiologist
+Heat exhaustion,General Physician
+Heat rash,General Physician
+Heatstroke,General Physician
+Liver hemangioma,General Physician
+Hemochromatosis,General Physician
+Hemophilia,General Physician
+Hemorrhoids,General Physician
+Henoch-Schonlein purpura,General Physician
+Toxic hepatitis,General Physician
+Stickler syndrome,General Physician
+Hiatal hernia,General Physician
+Inguinal hernia,General Physician
+Herniated disk,General Physician
+Shingles,General Physician
+Ramsay Hunt syndrome,General Physician
+Hidradenitis suppurativa,General Physician
+High blood pressure (hypertension),General Physician
+High blood pressure in children,General Physician
+Secondary hypertension,General Physician
+Histoplasmosis,General Physician
+Laryngitis,General Physician
+Sty,General Physician
+Hot flashes,General Physician
+HPV infection,Infectious Disease
+Hunter syndrome,General Physician
+Progeria,General Physician
+Hydrocele,General Physician
+Hydrocephalus,General Physician
+Vesicoureteral reflux,General Physician
+Hyperglycemia in diabetes,General Physician
+Hyperparathyroidism,General Physician
+Preeclampsia,General Physician
+Hyperthyroidism (overactive thyroid),General Physician
+Hyponatremia,General Physician
+Hypoplastic left heart syndrome,Cardiologist
+Low blood pressure (hypotension),General Physician
+Hypothyroidism (underactive thyroid),General Physician
+Inflammatory bowel disease (IBD),General Physician
+Irritable bowel syndrome,General Physician
+Immune thrombocytopenia (ITP),General Physician
+Prediabetes,General Physician
+Impetigo,General Physician
+Infant jaundice,General Physician
+Infectious diseases,General Physician
+Infertility,General Physician
+Male infertility,General Physician
+Pancreatitis,General Physician
+Ingrown hair,General Physician
+Metabolic syndrome,General Physician
+Intermittent explosive disorder,General Physician
+Intestinal ischemia,General Physician
+Whipple's disease,General Physician
+Intussusception,General Physician
+Invasive lobular carcinoma,Oncologist
+Iritis,General Physician
+Jellyfish stings,General Physician
+Jock itch,General Physician
+Patellar tendinitis,General Physician
+Kawasaki disease,General Physician
+Keloid scar,General Physician
+Keratitis,General Physician
+Keratoconus,General Physician
+Kidney stones,Nephrologist
+Klinefelter syndrome,General Physician
+Klippel-Trenaunay syndrome,General Physician
+Knee pain,General Physician
+Lactose intolerance,General Physician
+Left ventricular hypertrophy,General Physician
+Legg-Calve-Perthes disease,General Physician
+Legionnaires' disease,General Physician
+Lichen nitidus,General Physician
+Oral lichen planus,General Physician
+Lip cancer,Oncologist
+Lipoma,General Physician
+Listeria infection,Infectious Disease
+Liver disease,General Physician
+Tetanus,General Physician
+Long QT syndrome,General Physician
+Low sperm count,General Physician
+Lupus,General Physician
+Lyme disease,General Physician
+Lymphedema,General Physician
+Lymphoma,General Physician
+Waldenstrom macroglobulinemia,General Physician
+Malaria,General Physician
+Undifferentiated pleomorphic sarcoma,General Physician
+Malignant hyperthermia,General Physician
+Malignant peripheral nerve sheath tumors,Oncologist
+Marfan syndrome,General Physician
+Muscular dystrophy,General Physician
+Measles,General Physician
+Medication overuse headaches,General Physician
+Melanoma,General Physician
+Membranous nephropathy,General Physician
+Meningioma,General Physician
+Meningitis,General Physician
+Mental illness,General Physician
+Metatarsalgia,General Physician
+MRSA infection,Infectious Disease
+Mitral valve disease,General Physician
+Mitral valve regurgitation,General Physician
+Mitral valve stenosis,General Physician
+Mixed connective tissue disease,General Physician
+Molluscum contagiosum,General Physician
+Morning sickness,General Physician
+Morphea,General Physician
+Morton's neuroma,Neurologist
+Multiple sclerosis,General Physician
+Myelodysplastic syndromes,General Physician
+Myofascial pain syndrome,General Physician
+Nearsightedness,General Physician
+Naegleria infection,Infectious Disease
+Narcissistic personality disorder,General Physician
+Nasal and paranasal tumors,Oncologist
+Nasal polyps,General Physician
+Nephrotic syndrome,General Physician
+Postherpetic neuralgia,General Physician
+Neuroendocrine tumors,Oncologist
+Peripheral nerve tumors,Oncologist
+Neurofibromatosis,Neurologist
+Peripheral neuropathy,Neurologist
+Nonalcoholic fatty liver disease,General Physician
+Nonallergic rhinitis,General Physician
+Norovirus infection,Infectious Disease
+Overactive bladder,General Physician
+Obesity,General Physician
+Obsessive-compulsive disorder (OCD),General Physician
+Pediatric obstructive sleep apnea,General Physician
+Oppositional defiant disorder (ODD),General Physician
+Ovarian hyperstimulation syndrome,General Physician
+Optic neuritis,General Physician
+Orchitis,General Physician
+Orthostatic hypotension (postural hypotension),General Physician
+Osgood-Schlatter disease,General Physician
+Osteosarcoma,General Physician
+Osteoporosis,General Physician
+Peripheral artery disease (PAD),General Physician
+Popliteal artery entrapment syndrome,General Physician
+Paget's disease of bone,Orthopedic
+Paget's disease of the breast,General Physician
+Panic attacks and panic disorder,General Physician
+Parkinson's disease,General Physician
+Salivary gland tumors,Oncologist
+Patent ductus arteriosus (PDA),General Physician
+Pelvic inflammatory disease (PID),General Physician
+Uterine prolapse,General Physician
+Pemphigus,General Physician
+Peptic ulcer,General Physician
+Perimenopause,General Physician
+Peritonitis,General Physician
+Persistent post-concussive symptoms (Post-concussion syndrome),General Physician
+Schizotypal personality disorder,General Physician
+Whooping cough,General Physician
+Sore throat,General Physician
+Thrombophlebitis,General Physician
+Pinched nerve,General Physician
+Pinworm infection,Infectious Disease
+Pituitary tumors,Oncologist
+Placental abruption,General Physician
+Plague,General Physician
+Plantar warts,General Physician
+Poison ivy rash,General Physician
+Polio,General Physician
+Polycythemia vera,General Physician
+Polymyalgia rheumatica,General Physician
+Polymyositis,General Physician
+Stomach polyps,Gastroenterologist
+Porphyria,General Physician
+Posterior vaginal prolapse (rectocele),General Physician
+Postpartum preeclampsia,General Physician
+Premature ejaculation,General Physician
+Primary ovarian insufficiency,General Physician
+Presbyopia,General Physician
+Prescription drug abuse,General Physician
+Primary immunodeficiency,General Physician
+Proctitis,General Physician
+Progressive supranuclear palsy,General Physician
+Prolactinoma,General Physician
+Prostatitis,General Physician
+Pseudogout,General Physician
+Psoriasis,General Physician
+Pulmonary atresia,General Physician
+Pulmonary valve stenosis,General Physician
+Pyloric stenosis,General Physician
+Pyoderma gangrenosum,General Physician
+Rabies,General Physician
+Raynaud's disease,General Physician
+Recurrent breast cancer,Oncologist
+REM sleep behavior disorder,General Physician
+Respiratory syncytial virus (RSV),Infectious Disease
+Restless legs syndrome,General Physician
+Retrograde ejaculation,General Physician
+Rett syndrome,General Physician
+Reye's syndrome,General Physician
+Rheumatic fever,General Physician
+Tinnitus,General Physician
+Ringworm (body),General Physician
+Rocky Mountain spotted fever,General Physician
+Rosacea,General Physician
+Rotator cuff injury,General Physician
+Rotavirus,Infectious Disease
+Seasonal affective disorder (SAD),General Physician
+Sarcoidosis,General Physician
+Small intestinal bacterial overgrowth (SIBO),General Physician
+Spontaneous coronary artery dissection (SCAD),General Physician
+Scarlet fever,General Physician
+Schizoaffective disorder,General Physician
+Schizophrenia,General Physician
+Spinal cord injury,General Physician
+Sciatica,General Physician
+Scorpion sting,General Physician
+Separation anxiety disorder,General Physician
+Sepsis,General Physician
+Ventricular septal defect (VSD),General Physician
+Serotonin syndrome,General Physician
+Sexually transmitted diseases (STDs),General Physician
+Shigella infection,Infectious Disease
+Sleep apnea,General Physician
+Obstructive sleep apnea,General Physician
+Sleep-related eating disorder,General Physician
+Small bowel prolapse (enterocele),General Physician
+Snoring,General Physician
+Soft palate cancer,Oncologist
+Somatic symptom disorder,General Physician
+Spider bites,General Physician
+Spina bifida,General Physician
+Spinal arteriovenous malformation (AVM),General Physician
+Spinal stenosis,General Physician
+Stage 4 prostate cancer,Oncologist
+Staph infections,Infectious Disease
+Trigger finger,General Physician
+Strep throat,General Physician
+Stress incontinence,General Physician
+Stretch marks,General Physician
+Suicide and suicidal thoughts,General Physician
+Sun allergy,General Physician
+Sunburn,General Physician
+Swollen knee,General Physician
+Syphilis,General Physician
+Tapeworm infection,Infectious Disease
+Tay-Sachs disease,General Physician
+Tuberculosis,General Physician
+TMJ disorders,General Physician
+TEN,General Physician
+Tendinitis,General Physician
+Testicular torsion,General Physician
+Transient ischemic attack (TIA),General Physician
+Tonsil cancer,Oncologist
+Tonsillitis,General Physician
+Tooth abscess,General Physician
+Tourette syndrome,General Physician
+Toxic shock syndrome,General Physician
+Toxoplasmosis,General Physician
+Trachoma,General Physician
+Transposition of the great arteries,General Physician
+Traumatic brain injury,Neurologist
+Trichinosis,General Physician
+Trichomoniasis,General Physician
+Tricuspid atresia,General Physician
+Tricuspid valve regurgitation,General Physician
+Truncus arteriosus,General Physician
+Tuberous sclerosis,General Physician
+Turner syndrome,General Physician
+Typhoid fever,General Physician
+Ureteral cancer,Oncologist
+Urinary tract infection (UTI),Infectious Disease
+Urine color,General Physician
+Varicose veins,General Physician
+Ventricular fibrillation,General Physician
+Ventricular tachycardia,General Physician
+Vocal cord paralysis,General Physician
+Von Willebrand disease,General Physician
+West Nile virus,Infectious Disease
+Yellow fever,General Physician
+Zika virus,Infectious Disease
